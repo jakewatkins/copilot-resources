@@ -1,0 +1,10 @@
+[
+    {
+        "SourcePath": "prompts/unittest.prompt.md",
+        "DestinationPath": ".github/prompts/unittest.prompt.md"
+      },
+      {
+        "SourcePath": "prompts/review.prompt.md",
+        "DestinationPath": ".github/prompts/review.prompt.md"
+      }
+]
