@@ -1,0 +1,10 @@
+[
+    {
+        "SourcePath" : ".editorconfig",
+        "DestinationPath" : ".editorconfig"
+    },
+    {
+        "SourcePath" : ".gitignore",
+        "DestinationPath" : ".gitignore"
+    },
+]
