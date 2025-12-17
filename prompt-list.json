@@ -6,5 +6,21 @@
       {
         "SourcePath": "prompts/review.prompt.md",
         "DestinationPath": ".github/prompts/review.prompt.md"
+      },
+      {
+        "SourcePath": "prompts/plan.prompt.md",
+        "DestinationPath": ".github/prompts/plan.prompt.md"
+      },
+      {
+        "SourcePath": "prompts/implement.prompt.md",
+        "DestinationPath": ".github/prompts/implement.prompt.md"
+      },
+      {
+        "SourcePath": "prompts/pushit.prompt.md",
+        "DestinationPath": ".github/prompts/pushit.prompt.md"
+      },
+      {
+        "SourcePath": "prompts/unittest.prompt.md",
+        "DestinationPath": ".github/prompts/unittest.prompt.md"
       }
 ]

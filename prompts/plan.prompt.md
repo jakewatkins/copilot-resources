@@ -13,3 +13,5 @@ Using the referenced content, create a detailed implementation plan that can be 
 The plan should be actionable, unambiguous, and structured so that a developer can begin implementation immediately. If anything in the requirements appears incomplete or contradictory, call it out before proceeding.
 
 Keep the plan concise but thorough.
+
+Save the plan in a file named "plan.md" in the same directory as the referenced file.
