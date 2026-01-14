@@ -22,5 +22,169 @@
       {
         "SourcePath": "prompts/unittest.prompt.md",
         "DestinationPath": ".github/prompts/unittest.prompt.md"
-      }
+      },
+    {
+    "SourcePath": "agents/critical-thinking.agent.md",
+    "DestinationPath": ".github/agents/critical-thinking.agent.md"
+    },
+    {
+      "SourcePath": "agents/csharp-dotnet-janitor.agent.md",
+      "DestinationPath": ".github/agents/csharp-dotnet-janitor.agent.md"
+    },
+    {
+      "SourcePath": "agents/csharp-mcp-expert.agent.md",
+      "DestinationPath": ".github/agents/csharp-mcp-expert.agent.md"
+    },
+    {
+      "SourcePath": "agents/CSharpExpert.agent.md",
+      "DestinationPath": ".github/agents/CSharpExpert.agent.md"
+    },
+    {
+      "SourcePath": "agents/debug.agent.md",
+      "DestinationPath": ".github/agents/debug.agent.md"
+    },
+    {
+      "SourcePath": "agents/devops-expert.agent.md",
+      "DestinationPath": ".github/agents/devops-expert.agent.md"
+    },
+    {
+      "SourcePath": "agents/expert-dotnet-software-engineer.agent.md",
+      "DestinationPath": ".github/agents/expert-dotnet-software-engineer.agent.md"
+    },
+    {
+      "SourcePath": "agents/implementation-plan.agent.md",
+      "DestinationPath": ".github/agents/implementation-plan.agent.md"
+    },
+    {
+      "SourcePath": "agents/janitor.agent.md",
+      "DestinationPath": ".github/agents/janitor.agent.md"
+    },
+    {
+      "SourcePath": "agents/mentor.agent.md",
+      "DestinationPath": ".github/agents/mentor.agent.md"
+    },
+    {
+      "SourcePath": "agents/microsoft-study-mode.agent.md",
+      "DestinationPath": ".github/agents/microsoft-study-mode.agent.md"
+    },
+    {
+      "SourcePath": "agents/plan.agent.md",
+      "DestinationPath": ".github/agents/plan.agent.md"
+    },
+    {
+      "SourcePath": "agents/prd.agent.md",
+      "DestinationPath": ".github/agents/prd.agent.md"
+    },
+    {
+      "SourcePath": "agents/principal-software-engineer.agent.md",
+      "DestinationPath": ".github/agents/principal-software-engineer.agent.md"
+    },
+    {
+      "SourcePath": "agents/prompt-builder.agent.md",
+      "DestinationPath": ".github/agents/prompt-builder.agent.md"
+    },
+    {
+      "SourcePath": "agents/prompt-engineer.agent.md",
+      "DestinationPath": ".github/agents/prompt-engineer.agent.md"
+    },
+    {
+      "SourcePath": "agents/simple-app-idea-generator.agent.md",
+      "DestinationPath": ".github/agents/simple-app-idea-generator.agent.md"
+    },
+    {
+      "SourcePath": "agents/specification.agent.md",
+      "DestinationPath": ".github/agents/specification.agent.md"
+    },
+    {
+      "SourcePath": "agents/task-planner.agent.md",
+      "DestinationPath": ".github/agents/task-planner.agent.md"
+    },
+    {
+      "SourcePath": "agents/task-researcher.agent.md",
+      "DestinationPath": ".github/agents/task-researcher.agent.md"
+    },
+    {
+      "SourcePath": "agents/tdd-green.agent.md",
+      "DestinationPath": ".github/agents/tdd-green.agent.md"
+    },
+    {
+      "SourcePath": "agents/tdd-red.agent.md",
+      "DestinationPath": ".github/agents/tdd-red.agent.md"
+    },
+    {
+      "SourcePath": "agents/tdd-refactor.agent.md",
+      "DestinationPath": ".github/agents/tdd-refactor.agent.md"
+    },
+    {
+      "SourcePath": "agents/tech-debt-remediation-plan.agent.md",
+      "DestinationPath": ".github/agents/tech-debt-remediation-plan.agent.md"
+    },
+    {
+      "SourcePath": "agents/terraform-azure-implement.agent.md",
+      "DestinationPath": ".github/agents/terraform-azure-implement.agent.md"
+    },
+    {
+      "SourcePath": "agents/terraform-azure-planning.agent.md",
+      "DestinationPath": ".github/agents/terraform-azure-planning.agent.md"
+    },
+    {
+      "SourcePath": "agents/terraform-iac-reviewer.agent.md",
+      "DestinationPath": ".github/agents/terraform-iac-reviewer.agent.md"
+    },
+    {
+      "SourcePath": "agents/terraform.agent.md",
+      "DestinationPath": ".github/agents/terraform.agent.md"
+    },
+    {
+      "SourcePath": "prompts/implement.prompt.md",
+      "DestinationPath": ".github/prompts/implement.prompt.md"
+    },
+    {
+      "SourcePath": "prompts/plan.prompt.md",
+      "DestinationPath": ".github/prompts/plan.prompt.md"
+    },
+    {
+      "SourcePath": "prompts/pushit.prompt.md",
+      "DestinationPath": ".github/prompts/pushit.prompt.md"
+    },
+    {
+      "SourcePath": "prompts/review.prompt.md",
+      "DestinationPath": ".github/prompts/review.prompt.md"
+    },
+    {
+      "SourcePath": "prompts/unittest.prompt.md",
+      "DestinationPath": ".github/prompts/unittest.prompt.md"
+    },
+    {
+      "SourcePath": "instructions/azure-devops-pipelines.instructions.md",
+      "DestinationPath": ".github/instructions/azure-devops-pipelines.instructions.md"
+    },
+    {
+      "SourcePath": "instructions/csharp.instructions.md",
+      "DestinationPath": ".github/instructions/csharp.instructions.md"
+    },
+    {
+      "SourcePath": "instructions/devops-core-principles.instructions.md",
+      "DestinationPath": ".github/instructions/devops-core-principles.instructions.md"
+    },
+    {
+      "SourcePath": "instructions/dotnet-architecture-good-practices.instructions.md",
+      "DestinationPath": ".github/instructions/dotnet-architecture-good-practices.instructions.md"
+    },
+    {
+      "SourcePath": "instructions/dotnet-framework.instructions.md",
+      "DestinationPath": ".github/instructions/dotnet-framework.instructions.md"
+    },
+    {
+      "SourcePath": "instructions/generate-modern-terraform-code-for-azure.instructions.md",
+      "DestinationPath": ".github/instructions/generate-modern-terraform-code-for-azure.instructions.md"
+    },
+    {
+      "SourcePath": "instructions/python-mcp-server.instructions.md",
+      "DestinationPath": ".github/instructions/python-mcp-server.instructions.md"
+    },
+    {
+      "SourcePath": "instructions/python.instructions.md",
+      "DestinationPath": ".github/instructions/python.instructions.md"
+    }
 ]
